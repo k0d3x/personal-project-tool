@@ -1,0 +1,26 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/ppt-react/node_modules
+/ppt-react/.pnp
+/ppt-reac/.pnp.js
+
+# testing
+/ppt-react/coverage
+
+# production
+/ppt-react/build
+
+# misc
+/ppt-react/.DS_Store
+/ppt-react/.env.local
+/ppt-react/.env.development.local
+/ppt-react/.env.test.local
+/ppt-react/.env.production.local
+
+/ppt-react/npm-debug.log*
+/ppt-react/yarn-debug.log*
+/ppt-react/yarn-error.log*
+/ppt-spring/target
+/ppt-spring/ppt-spring.iml
+.idea/
